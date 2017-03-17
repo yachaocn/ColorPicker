@@ -1,10 +1,11 @@
 # ColorPicker
 
-![](http://7xiwr4.com1.z0.glb.clouddn.com/colorPicker.gif)
+A very nice round picker that can adjust the brightness.
+</br>
+Look like this:
 
 ----
 
-A very nice round picker that can adjust the brightness.
-</br>
+![](http://7xiwr4.com1.z0.glb.clouddn.com/colorPicker.gif)
 </br>
 `Written by yachaocn`
